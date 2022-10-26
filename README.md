@@ -1,4 +1,8 @@
-### Hi there 👋
+#### ∞ contributions in the last year
+
+| <img src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif" alt="Contributions" width="722px" height="112px" /> |
+| ------------------------------------------------------------------------------------------------------------------------------------------- |
+
 
 <!--
 **transfercj/transfercj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
